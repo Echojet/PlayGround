@@ -1,0 +1,13 @@
+{
+  "name": "Tündük — услуги для дома",
+  "short_name": "Tündük",
+  "description": "Проверенные мастера и услуги для дома в Бишкеке.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#F7F2E8",
+  "theme_color": "#14231C",
+  "lang": "ru",
+  "icons": [
+    { "src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
